@@ -1,3 +1,3 @@
 # wdic
 
-Das ist ein Test
+Das ist ein Test. Und noch einer.
